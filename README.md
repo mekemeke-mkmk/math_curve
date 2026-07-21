@@ -1,4 +1,4 @@
-# math_curve
+# math_curve_2
 Math Curve Create Mathematical Curves Directly in Fusion 360
 
 # Fusion Math Add-on
